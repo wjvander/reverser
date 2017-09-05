@@ -1,7 +1,7 @@
 const expect = require('chai').expect;
 const Manipulator = require('../Manipulator');
-const reverseWord = require('../reverseWord');
-const reverseItems = require('../reverseItems');
+const reverseWord = require('../reversers/reverseWord');
+const reverseItems = require('../reversers/reverseItems');
 
 describe('Reverse Array', () => {
 	let fruits;

@@ -1,6 +1,6 @@
 const Manipulator = require('./Manipulator');
-const wordReverser = require('./reverseWord');
-const listReverser = require('./reverseItems');
+const wordReverser = require('./reversers/reverseWord');
+const listReverser = require('./reversers/reverseItems');
 
 let fruits = ["Banana", "Kiwi", "Apple"];
 
