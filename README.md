@@ -9,3 +9,11 @@ Given an array of fruits, log the fruits in the reversed order as well as the le
 - [x] Reverse list of items
 - [x] Reverse letters of each item
 - [x] Log output to console
+
+### Running Tests
+
+`npm test`
+
+### Running Application
+
+`npm start`
